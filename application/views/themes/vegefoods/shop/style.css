@@ -1,0 +1,10 @@
+.btn.btn-primary {
+    background-color: #000000; /* Warna latar belakang hitam */
+    border-color: #000000; /* Warna border hitam */
+    color: #ffffff; /* Warna teks putih agar kontras dengan latar belakang hitam */
+}
+
+.btn.btn-primary:hover {
+    background-color: #333333; /* Warna latar belakang sedikit lebih terang saat hover */
+    border-color: #333333; /* Warna border saat hover */
+}
