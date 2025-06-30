@@ -1,5 +1,3 @@
-# Toko Sayur 22
-
 
 
 ##Fitur
@@ -18,8 +16,5 @@ dan lain-lain.
 
 User demo:
 - Admin
-username: mulyojr
-password: qwerty
+
 - Customer:
-username: agungtr
-password: qwerty
